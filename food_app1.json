@@ -1,0 +1,42 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Pizza",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3132/3132693.png"
+    },
+    {
+      "id": 2,
+      "name": "Burger",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3075/3075977.png"
+    },
+    {
+      "id": 3,
+      "name": "Sushi",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3183/3183463.png"
+    }
+  ],
+
+  "products": [
+    {
+      "id": 1,
+      "name": "Double Cheeseburger",
+      "description": "Beef burger with double cheese",
+      "price": 12.50,
+      "quantity": 100,
+      "view": 1200,
+      "category_id": 2,
+      "image": "https://images.unsplash.com/photo-1550547660-d9450f859349"
+    },
+    {
+      "id": 2,
+      "name": "Margherita Pizza",
+      "description": "Classic Italian pizza",
+      "price": 15.00,
+      "quantity": 80,
+      "view": 980,
+      "category_id": 1,
+      "image": "https://images.unsplash.com/photo-1548365328-8b849e6b7f2a"
+    }
+  ]
+}
